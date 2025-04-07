@@ -29,3 +29,4 @@ To eliminate fraudulent ticketing practices, empower event organizers, and give 
 
 🛠 Built with Solidity v0.8.0
 
+#contract Details : 0xbd06c65deb3331d6D6473ae9A41EaDC45b590796
